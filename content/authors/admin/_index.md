@@ -62,8 +62,9 @@ social:
 #- Researchers
 #- Visitors
 ---
-
-Criei este blog com o intuito de compartilhar pequenas coisas que aprendo no dia a dia, 
+<div style="text-align: justify"> 
+Criei este blog com a finalidade de compartilhar pequenas coisas que aprendo no dia a dia, e
 também com intuito de desenvolver habilidades de comunicação e didática. Atualmente, 
 sou aluno de doutorado em Engenharia Mecânica pela Escola de Engenharia de São Carlos, e meu projeto 
-de pesquisa envolve o uso do método de lattice Boltzmann para processos de mundança de fase.
+de pesquisa envolve o uso do método de lattice Boltzmann para processos de mudança de fase.
+</div>

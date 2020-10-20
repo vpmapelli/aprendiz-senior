@@ -9,7 +9,7 @@ title = "Aprendiz Sênior"
 
 [design.background]
   # Background color.
-  color = "#090a0b"
+  color = "#020202"
 
   # Text color (true=light or false=dark).
   text_color_light = true
